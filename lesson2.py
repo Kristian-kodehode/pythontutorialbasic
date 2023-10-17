@@ -1,7 +1,8 @@
-line01 = "********************"
-line02 = "*                  *"
+line01 = "********************" # Header / footer
+line02 = "*                  *" # re-use
 line03 = "*     WELCOME!     *"
-
+        line04 = "Bla"
+# Starts with a blank line
 print('')
 print(line01)
 print(line02)
